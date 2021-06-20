@@ -15,7 +15,13 @@
 
 ## How can we collect data about the context of our idea?
 
+-   Interviews: We ask deep
+-   Questionnaires: We ask in general
+-   Observation:
+
 ## Give examples of the different ways of communicating your idea to other team members/costumers/users?
+
+Personas
 
 # Question 3
 
@@ -51,8 +57,13 @@ quickly and cheaply.
 
 ## When in the design process do, we introduce prototypes?
 
-In the prototyping phase - 3rd phase. 1. Establishing Requirements 2.
-Designing alternatives 3. Prototyping 4. Evaluating
+In the prototyping phase - 3rd phase.
+
+1.  Establishing Requirements
+2.  Designing alternatives
+3.  Prototyping
+4.  Evaluating
+
 ![](../figures/process.png) ## Give examples of the different prototypes
 and their strengths and weaknesses. ##\# Sketches - **Strengths**: -
 **Weaknesses**:
@@ -87,8 +98,13 @@ Yes?
 
 ## Assume you have collected qualitative data. What is the process that you need to follow to conduct an analysis of this data?
 
-Classify unstructured data into categoeries 1. Define the dataset 2.
-Clean up the dataset 3. Code the dataset 4. Extract findings
+Classify unstructured data into categoeries
+
+1.  Define the dataset
+2.  Clean up the dataset
+3.  Code the dataset
+4.  Extract findings
+
 ![](../figures/qualitative_data_analysis_process.png)
 
 ## What are the two approaches for coding qualitative data, and what are their differences?
@@ -140,6 +156,11 @@ coding** ![](../figures/a_priori_coding.png)
 
 ## What is the difference between basic and complex experiments in terms of number of variables and used statistical techniques?
 
+-   Basic: One independent variable, minimum 2 levels
+-   Complex: More than two independent variables. minimum 2 levels.
+
 ## What are the differences between between-subjects and within-subjects designs?
 
-## What are their advantages and disadvantages?
+-   Between-
+-   Between-group designs: Different participants experience the
+    conditions ## What are their advantages and disadvantages?
