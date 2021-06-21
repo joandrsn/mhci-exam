@@ -14,9 +14,9 @@ In the prototyping phase - 3rd phase.
 ![](figures/process.png)
 ## Give examples of the different prototypes and their strengths and weaknesses.
 ### Sketches
-- **Strengths**:
-- **Weaknesses**:
+- **Strengths**: Easy to change, cheap, quick
+- **Weaknesses**: The user may have difficulty imagining the final product?
 
 ### Software (e.g wireframe - Figma)
-- **Strengths**:
-- **Weaknesses**:
+- **Strengths**: Looks more like the final product.
+- **Weaknesses**: Requires more time compared to a lo-fidelity prototype
