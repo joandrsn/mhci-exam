@@ -78,17 +78,20 @@ bounded by the users' activities.
 ## Give short examples of the four categories of interaction (Collaboration, Communality, Complementarity, Continuity)
 
 -   **Collaboration**
-    -   
+    -   Maps on ones car
 -   **Communality**
-    -   
+    -   A personalized experience in a car
 -   **Complementarity**
-    -   
+    -   An app for your car
 -   **Continuity**
-    -   
+    -   Spotify on in your car
 
 # Question 4
 
 ## Why is it important for designers know the difference between devices and platforms when we design for them?
+
+Because each platform brings different strengths and weaknesses with
+them.
 
 ## What is skeuomorphism?
 
@@ -149,7 +152,9 @@ user.
 
 ## Are there any differences between conducting evaluations in a lab and the field?
 
-Yes?
+Yes of course there is. The user may feel intimidated by being in a lab,
+compared to the real world. The user may have issues imagineing their
+environment when they are in the lab.
 
 # Question 7
 
@@ -241,6 +246,26 @@ dunno lul.
 
 ## What are the differences between between-subjects and within-subjects designs?
 
--   Between-
--   Between-group designs: Different participants experience the
-    conditions ## What are their advantages and disadvantages?
+-   Between subjects design: One participants experiences one of the
+    conditions of our design.
+-   Within subjects designs: One participant experiences all of the
+    conditions of our designs.
+
+## What are their advantages and disadvantages?
+
+-   Within-subject design
+    -   *advantages*
+    -   fewer participants
+    -   systematic error will be the same in both conditions.
+    -   *disadvantages*
+    -   har to control practice, order and fatigue effects.
+        ![](../figures/counterbalancing.png)
+-   Between-subject design
+    -   *advantages*
+    -   Easier to control practice, order and fatigue effects
+    -   *disadvantages*
+    -   Many participants
+    -   systematic error is more difficult to control.
+
+Same technique, but different statistical technique. 3 T-tests performed
+at the same time. ![](../figures/2x2_factorial_design.png)

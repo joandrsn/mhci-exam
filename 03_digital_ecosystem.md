@@ -9,13 +9,13 @@ This network consists of users and a digital artifacts, dynamically bounded by t
 
 ## Give short examples of the four categories of interaction (Collaboration, Communality, Complementarity, Continuity)
 * **Collaboration**
-  * 
+  * Maps on ones car
 * **Communality**
-  * 
+  * A personalized experience in a car
 * **Complementarity**
-  * 
+  * An app for your car
 * **Continuity**
-  * 
+  * Spotify on in your car
 
 
 

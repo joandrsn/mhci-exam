@@ -12,4 +12,4 @@ To gather information about the user's perception of the solution. We as designe
 
 ## Are there any differences between conducting evaluations in a lab and the field?
 
-Yes?
+Yes of course there is. The user may feel intimidated by being in a lab, compared to the real world. The user may have issues imagineing their environment when they are in the lab.
