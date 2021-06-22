@@ -16,25 +16,36 @@
 -   **Big C**: Context, what do users need
 -   **small c**: What is required to fulfil that
 
-Further: ##\# Context (big c) - **The Problem** - What problems are you
-trying to design a solution for? - What value do you want to bring for
-your users? - **Users and their situation** - Who are your users and
-what do you know about them? - How are they able to or how will they
-interact with your design? - **Location** - What and where is it
-happening? - **Markets** - How is your idea different from other design
-already available?
+Further:
+
+### Context (big c)
+
+-   **The Problem**
+    -   What problems are you trying to design a solution for?
+    -   What value do you want to bring for your users?
+-   **Users and their situation**
+    -   Who are your users and what do you know about them?
+    -   How are they able to or how will they interact with your design?
+-   **Location**
+    -   What and where is it happening?
+-   **Markets**
+    -   How is your idea different from other design already available?
 
 ### context (small c)
 
-Which requirements / constraints lies in the context? - **Physical and
-spatial considerations** - Are there any restrictions in the physical
-environment or the location? (e.g. will I be able to use the design all
-the time) - **Technological considerations** - How are different devices
-present in different situations? (e.g. why smart watches might be better
-than smart phones when running or swimming) -
-**Psycological/demographical considerations** - Does users mental models
-and prerequisites for interacting with certain devices (e.g. knowledge,
-common conceptions in the community etc.)
+Which requirements / constraints lies in the context?
+
+-   **Physical and spatial considerations**
+    -   Are there any restrictions in the physical environment or the
+        location? (e.g. will I be able to use the design all the time)
+-   **Technological considerations**
+    -   How are different devices present in different situations?
+        (e.g. why smart watches might be better than smart phones when
+        running or swimming)
+-   **Psycological/demographical considerations**
+    -   Does users mental models and prerequisites for interacting with
+        certain devices (e.g. knowledge, common conceptions in the
+        community etc.)
 
 ## How can we communicate context to others?
 

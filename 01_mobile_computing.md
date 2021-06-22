@@ -14,6 +14,7 @@
 - **small c**: What is required to fulfil that
 
 Further:
+
 ### Context (big c)
 - **The Problem**
   - What problems are you trying to design a solution for?
@@ -27,11 +28,15 @@ Further:
   - How is your idea different from other design already available?
 
 ### context (small c)
-Which requirements / constraints lies in the context?
+
+Which requirements / constraints lies in the context?  
+
 - **Physical and spatial considerations**
   - Are there any restrictions in the physical environment or the location? (e.g. will I be able to use the design all the time)
+
 - **Technological considerations**
   - How are different devices present in different situations? (e.g. why smart watches might be better than smart phones when running or swimming)
+
 - **Psycological/demographical considerations**
   - Does users mental models and prerequisites for interacting with certain devices (e.g. knowledge, common conceptions in the community etc.)
 
