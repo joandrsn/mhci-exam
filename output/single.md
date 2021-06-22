@@ -133,8 +133,10 @@ In the prototyping phase - 3rd phase.
 3.  Prototyping
 4.  Evaluating
 
-![](../figures/process.png) ## Give examples of the different prototypes
-and their strengths and weaknesses. ##\# Sketches - **Strengths**: Easy
+![](../figures/process.png) 
+## Give examples of the different prototypes
+and their strengths and weaknesses. 
+### Sketches - **Strengths**: Easy
 to change, cheap, quick - **Weaknesses**: The user may have difficulty
 imagining the final product?
 
